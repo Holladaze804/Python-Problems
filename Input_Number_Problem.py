@@ -1,0 +1,5 @@
+a = int(input("What is the first number that you want to enter into the equation? "))
+b = int(input("What is the second number that you want to enter into the equation? "))
+print(a+b)
+print(a-b)
+print(a*b)
